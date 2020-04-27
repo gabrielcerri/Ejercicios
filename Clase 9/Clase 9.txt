@@ -1,0 +1,24 @@
+Clase 9: 
+---TXT---
+Tarea:
+	-crear modal
+	-regex (investigar)
+	-tag audio, contenido tag source (ver estilos en css)
+	-USAR QUERYSELECTOR-QUERYSELECTOR /// esto es igual que getelement
+
+---------------------RADIO------------------
+features:
+	-botones:
+		-anterior: ir a la cancion anterior, o la ultima si la que esta sonando es la primera de la lista.
+		-siguiente: ir a la cancion siguiente, o la primera si la que esta sonando es la ultima de la lista.
+
+		-play: 
+			-funcionalidad: reanudar cancion
+			-visibilidad: si esta pausada la cancion actual 
+
+		-pausa:
+			-funcionalidad: parar cancion
+			-visibilidad: si esta corriendo la cancion actual
+
+	-cuerpo:
+		-			
